@@ -2,7 +2,7 @@
   "name": "vite-react-typescript-starter",
   "private": true,
   "version": "1.0.0",
-  "homepage": "https://anthony-gbs.github.io/EcoDev_FrontEnd",
+  "homepage": "https://anthony-gbs.github.io/EcoDev",
   "type": "module",
   "scripts": {
     "dev": "vite",
